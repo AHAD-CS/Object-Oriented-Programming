@@ -123,7 +123,7 @@ After running the program, you will observe:
 # 👨‍💻 **Author**
 
 **Abdul Ahad**
-🎓 **BS Computer Science
+🎓 **BS Computer Science**
 🏛️ **University of Karachi**
 
 ---
