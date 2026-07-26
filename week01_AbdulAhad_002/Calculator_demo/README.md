@@ -1,61 +1,137 @@
-**# Calculator Demo**
+# 🧮 **Calculator Demo - Object-Oriented Programming**
 
-**## Description**
-This project is a Java-based Calculator developed to demonstrate the basic concepts of 
-Object-Oriented Programming (OOP). The calculator supports multiple mathematical operations and 
-follows the principles of encapsulation using private attributes, constructors, getters, and setters.
+> **A Java-based Calculator Project demonstrating the fundamental concepts of Object-Oriented Programming (OOP).**
 
-**## Features**
-- Turn Calculator ON/OFF
-- Addition (Unlimited Operands)
-- Subtraction (Unlimited Operands)
-- Multiplication (Unlimited Operands)
-- Division with Division-by-Zero Handling
-- Power Calculation
-- Average Calculation
-- Clear Last Result
-- Display Calculator Status
+---
 
-**## Files Included**
-- `Calculator.java` – Contains the Calculator class and all methods.
-- `CalMain.java` – Driver class used to test the Calculator.
-- `Calculator UML.pdf` – UML Class Diagram.
-- `calculator Main output.pdf` – Program output.
-- `calculator.jpg` – Screenshot of the Calculator UML.
+# 📖 **Project Description**
 
-**## OOP Concepts Used**
-- Class and Object
-- Encapsulation
-- Constructors
-- Method Overloading (Varargs)
-- Getters and Setters
-- State Management
-- Input Validation
+This project is a **Java-based Calculator** developed to demonstrate the core concepts of **Object-Oriented Programming (OOP)**. The calculator performs various mathematical operations while following the principles of **Encapsulation**, **Constructors**, **Getters & Setters**, and **Method Overloading (Varargs)**.
 
-**## Operations Demonstrated**
-- Normal operation for each method.
-- Edge cases such as:
-  - Calculator OFF
-  - No operands provided
-  - Division by zero
-  - Power with zero exponent
+The project is designed to simulate a real calculator capable of performing operations on **multiple operands**.
 
-## How to Run
+---
 
-1. Compile the Java files:
+# ✨ **Project Features**
+
+✅ **Turn Calculator ON/OFF**
+
+✅ **Addition (Unlimited Operands)**
+
+✅ **Subtraction (Unlimited Operands)**
+
+✅ **Multiplication (Unlimited Operands)**
+
+✅ **Division with Division-by-Zero Handling**
+
+✅ **Power Calculation**
+
+✅ **Average Calculation**
+
+✅ **Clear Last Result**
+
+✅ **Display Calculator Status**
+
+---
+
+# 📂 **Project Structure**
+
+| 📄 **File** | 📝 **Description** |
+|:-----------|:------------------|
+| **Calculator.java** | Contains the Calculator class and all methods. |
+| **CalMain.java** | Driver class used to test the Calculator. |
+| **Calculator UML.pdf** | UML Class Diagram. |
+| **calculator Main output.pdf** | Program execution output. |
+| **calculator.jpg** | Screenshot of the UML Diagram. |
+
+---
+
+# 💡 **OOP Concepts Used**
+
+✔️ **Class & Object**
+
+✔️ **Encapsulation**
+
+✔️ **Private Attributes**
+
+✔️ **Constructors**
+
+✔️ **Method Overloading (Varargs)**
+
+✔️ **Getters & Setters**
+
+✔️ **State Management**
+
+✔️ **Input Validation**
+
+---
+
+# 🧪 **Operations Demonstrated**
+
+### ✅ **Normal Operations**
+
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- ⚡ Power
+- 📊 Average
+
+### ⚠️ **Edge Cases**
+
+- ❌ Calculator is **OFF**
+- ❌ No operands provided
+- ❌ Division by zero
+- ❌ Power with zero exponent
+
+---
+
+# ▶️ **How to Run**
+
+### **Step 1 — Compile the Java Files**
 
 ```bash
 javac Calculator.java CalMain.java
 ```
 
-2. Run the program:
+### **Step 2 — Run the Program**
 
 ```bash
 java CalMain
 ```
 
-## Author
+---
 
-**Abdul Ahad**  
-BS Computer Science 
-University of Karachi
+# 📸 **Expected Output**
+
+After running the program, you will observe:
+
+✅ Calculator turns **ON/OFF**
+
+✅ Mathematical operations execute successfully
+
+✅ Division by zero is handled properly
+
+✅ Average of multiple operands is calculated
+
+✅ Last result is displayed
+
+✅ Calculator status is updated correctly
+
+---
+
+# 👨‍💻 **Author**
+
+**Abdul Ahad**
+🎓 **BS Computer Science
+🏛️ **University of Karachi**
+
+---
+
+<div align="center">
+
+
+
+**Thank you for visiting this repository! 🚀**
+
+</div>
